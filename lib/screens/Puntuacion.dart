@@ -7,7 +7,7 @@ class Puntuacion extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
      return Scaffold(
-      appBar:  AppBar(title: Text("Puntuacion"),),
+      appBar:  AppBar(title: Text("Puntuación"),),
        drawer: Drawer(
         child: ListView(
           children: [
