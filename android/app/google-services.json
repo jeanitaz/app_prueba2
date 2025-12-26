@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "498439469624",
+    "firebase_url": "https://relojeria-app-90b6d-default-rtdb.firebaseio.com",
+    "project_id": "relojeria-app-90b6d",
+    "storage_bucket": "relojeria-app-90b6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498439469624:android:904f38fc29f8aac38b84cd",
+        "android_client_info": {
+          "package_name": "com.example.app_prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIeB22bQgIsaowpzjFZXCcL4UK2j6J1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
